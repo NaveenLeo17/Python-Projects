@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/bank_data.json
+exports/*
+!exports/.gitkeep

@@ -1,0 +1,9 @@
+[
+  {
+    "isbn": "01",
+    "title": "Test",
+    "author": "Nav",
+    "total_copies": 10,
+    "available_copies": 10
+  }
+]
